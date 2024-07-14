@@ -1,0 +1,137 @@
+Enter your role:
+1 Admin
+2 Trainer
+3 Student
+4 Exit
+1
+Admin Tasks:
+1 Add Question
+2 Delete Question
+3 View Questions
+4 Exit
+3
+All Questions:
+ID: 1, Question: What is the capital of Germany?
+ID: 2, Question: What is 2 + 2?
+ID: 3, Question: Who designed the current 'National Flag of India'?
+Do you want to perform another admin task? Yes or No
+Yes
+Admin Tasks:
+1 Add Question
+2 Delete Question
+3 View Questions
+4 Exit
+1
+Enter question ID:
+4
+Enter question text:
+Add 2+2=
+Enter options separated by commas:
+1,2,3,4
+Enter correct answer:
+4
+Enter complexity level (Easy, Medium, Hard):
+Easy
+Do you want to perform another admin task? Yes or No
+No
+Do you want to switch role or exit? Yes to continue, No to exit
+Yes
+Enter your role:
+1 Admin
+2 Trainer
+3 Student
+4 Exit
+2
+Trainer Tasks:
+1 Set Up Test
+2 View Results
+3 Exit
+1
+Enter total number of questions:
+3
+Enter number of Easy questions:
+3
+Enter number of Medium questions:
+0
+Enter number of Hard questions:
+0
+Enter the number of past tests to exclude questions from:
+1
+
+Test Questions:
+Question: What is the capital of Germany?
+Question: What is 2 + 2?
+Question: Add 2+2=
+Do you want to perform another trainer task? Yes or No
+No
+Do you want to switch role or exit? Yes to continue, No to exit
+yes
+Enter your role:
+1 Admin
+2 Trainer
+3 Student
+4 Exit
+3
+Student Tasks:
+1 Take Test
+2 View Results
+3 Exit
+2
+
+Student Results:
+Do you want to perform another student task? Yes or No
+yes
+Student Tasks:
+1 Take Test
+2 View Results
+3 Exit
+1
+Getting ready to take the test...
+
+Starting Test:
+Question: What is the capital of Germany?
+A) Berlin
+B) Madrid
+C) Paris
+D) Rome
+Enter your answer:
+Rome
+Incorrect! Correct answer is: A) Berlin
+Question: What is 2 + 2?
+A) 3
+B) 4
+C) 5
+D) 6
+Enter your answer:
+4
+Incorrect! Correct answer is: B) 4
+Question: Add 2+2=
+1
+2
+3
+4
+Enter your answer:
+4
+Correct!
+Test Completed. Your Score: 
+Score: 3
+Do you want to perform another student task? Yes or No
+yes
+Student Tasks:
+1 Take Test
+2 View Results
+3 Exit
+2
+
+Student Results:
+Score: 3
+Do you want to perform another student task? Yes or No
+No
+Do you want to switch role or exit? Yes to continue, No to exit
+Yes
+Enter your role:
+1 Admin
+2 Trainer
+3 Student
+4 Exit
+4
